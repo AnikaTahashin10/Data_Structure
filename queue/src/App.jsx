@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './App.css'; // Your CSS file for styling
+import './App.css';
 
 function App() {
   const [queue, setQueue] = useState([]);
